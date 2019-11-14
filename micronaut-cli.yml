@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.alexbispo.example.micronaut.bookcatalogue
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
